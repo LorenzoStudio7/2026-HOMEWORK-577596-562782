@@ -1,4 +1,4 @@
-package it.uniroma3.diadia;
+package it.uniroma3.diadia.IOConsole;
 import java.util.Scanner;
 
 public class IOConsole {
